@@ -1,8 +1,12 @@
-
+<!DOCTTYPE html>
+<html>
 # HTML Intro - Lab
 
 ## Introduction
-
+  <head>
+  <title>
+  HTML LAB 
+  </title>
 It's time to practice making a well formated HTML document!
 
 ## Objectives
@@ -12,9 +16,10 @@ You will be able to:
 * Structure an HTML document with `head` and `body` tags.
 * Add `title` tags to give the page a title that will show up in the browser
 tab.
+  </head>
 
 ## The In-Browser IDE
-
+  <body>
 We want to make it easy for you to both be able to edit an HTML file and for us to be able to run tests to verify that your code is correct. Rather than asking you to do this locally, we're just going to take advantage of the Learn in-browser IDE. You'll see a button towards the top of this page "Open IDE" (just to the left of the GitHub and Raise Issue icons). When we ask you to edit a file "in your text editor", just click on that link, click on the index.html file name in the left hand column.
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in broswer".
@@ -64,3 +69,5 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+  </body>
+</html>
